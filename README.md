@@ -1,4 +1,5 @@
-FitFlex
+##FitFlex
+
 FitFlex is a fitness tracking application designed to help users achieve their health and fitness goals. Built with Flutter for the frontend and Express.js for the backend API, FitFlex offers a seamless user experience with powerful functionality.
 
 Features

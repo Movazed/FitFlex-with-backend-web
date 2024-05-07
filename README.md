@@ -1,4 +1,4 @@
-##FitFlex
+FitFlex
 
 FitFlex is a fitness tracking application designed to help users achieve their health and fitness goals. Built with Flutter for the frontend and Express.js for the backend API, FitFlex offers a seamless user experience with powerful functionality.
 
@@ -22,11 +22,5 @@ Run npm start to start the Express.js server.
 Contributing
 Contributions are welcome! If you have any feature requests, bug reports, or suggestions, please open an issue or submit a pull request.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+License
+This project is licensed under the MIT License.

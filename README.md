@@ -1,2 +1,2 @@
 # FitFlex-with-backend-web
-change to master branch
+change to main to master branch
